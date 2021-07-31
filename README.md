@@ -26,7 +26,7 @@
 ## Inicia la Instalacion:
 
 ```bash
-> cd LUZAICK/---19.-
+> cd LUZAICK
 > bash install.sh
 ```
 
